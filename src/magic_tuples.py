@@ -18,7 +18,7 @@ class MagicIter:
         return (value, x)
 
 
-def magic_tuple(total: int, max:int) -> Iterator:
+def magic_tuples(total: int, max:int) -> Iterator:
     """
     Parameters
     ----------
@@ -38,5 +38,5 @@ def magic_tuple(total: int, max:int) -> Iterator:
     return magic_tuple_list
 
 
-for t in magic_tuple(5,4):
+for t in magic_tuples(5,4):
         print(t)

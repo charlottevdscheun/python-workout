@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: python-workout
+Version: 0.0.1
+Summary: Python weekly exercises
+Home-page: https://github.com/pypa/sampleproject
+Author: Charlotte van der Scheun
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6

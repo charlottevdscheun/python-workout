@@ -1,0 +1,13 @@
+# Distribution / packaging
+.python-version
+.Python
+
+# VS Code
+.vscode/
+
+# Mac OS-specific storage files
+.DS_Store
+
+#pytest cache
+__pycache__/
+.pytest_cache/
