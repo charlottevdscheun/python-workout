@@ -38,5 +38,5 @@ def magic_tuples(total: int, max:int) -> Iterator:
     return magic_tuple_list
 
 
-for t in magic_tuples(5,4):
+for t in magic_tuples(3,3):
         print(t)
