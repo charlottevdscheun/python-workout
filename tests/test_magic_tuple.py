@@ -1,5 +1,5 @@
 import pytest
-from magic_tuples import magic_tuples
+from src.magic_tuples import magic_tuples
 
 def test_zeroes():
     assert list(magic_tuples(0, 0)) == []

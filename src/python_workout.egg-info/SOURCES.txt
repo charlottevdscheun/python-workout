@@ -1,6 +1,0 @@
-README.md
-setup.py
-src/python_workout.egg-info/PKG-INFO
-src/python_workout.egg-info/SOURCES.txt
-src/python_workout.egg-info/dependency_links.txt
-src/python_workout.egg-info/top_level.txt
